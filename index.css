@@ -24,12 +24,13 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  border: 2px dotted gold;
+  border: 2px solid gold;
+  border-radius: 10px;
 }
 
 p {
-  font-size: 3em;
-  color: white;
+  font-size: 5em;
+  color: gold;
 }
 
 .btns {
