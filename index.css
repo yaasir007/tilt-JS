@@ -31,13 +31,6 @@ body {
 p {
   font-size: 5em;
   color: gold;
-}
-
-.btns {
-  display: flex;
-  column-gap: 100px;
-}
-
-button {
-  padding: 10px 20px;
+  font-style: italic;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
